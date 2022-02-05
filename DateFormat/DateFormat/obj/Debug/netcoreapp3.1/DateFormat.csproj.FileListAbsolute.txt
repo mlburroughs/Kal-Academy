@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\DateFormat\DateFormat\bin\Debug\netcoreapp3.1\DateFormat.exe
+C:\Users\burro\source\repos\DateFormat\DateFormat\bin\Debug\netcoreapp3.1\DateFormat.deps.json
+C:\Users\burro\source\repos\DateFormat\DateFormat\bin\Debug\netcoreapp3.1\DateFormat.runtimeconfig.json
+C:\Users\burro\source\repos\DateFormat\DateFormat\bin\Debug\netcoreapp3.1\DateFormat.runtimeconfig.dev.json
+C:\Users\burro\source\repos\DateFormat\DateFormat\bin\Debug\netcoreapp3.1\DateFormat.dll
+C:\Users\burro\source\repos\DateFormat\DateFormat\bin\Debug\netcoreapp3.1\DateFormat.pdb
+C:\Users\burro\source\repos\DateFormat\DateFormat\obj\Debug\netcoreapp3.1\DateFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\DateFormat\DateFormat\obj\Debug\netcoreapp3.1\DateFormat.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\DateFormat\DateFormat\obj\Debug\netcoreapp3.1\DateFormat.AssemblyInfo.cs
+C:\Users\burro\source\repos\DateFormat\DateFormat\obj\Debug\netcoreapp3.1\DateFormat.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\DateFormat\DateFormat\obj\Debug\netcoreapp3.1\DateFormat.dll
+C:\Users\burro\source\repos\DateFormat\DateFormat\obj\Debug\netcoreapp3.1\DateFormat.pdb
+C:\Users\burro\source\repos\DateFormat\DateFormat\obj\Debug\netcoreapp3.1\DateFormat.genruntimeconfig.cache

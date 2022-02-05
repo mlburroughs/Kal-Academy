@@ -1,0 +1,14 @@
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.csproj.AssemblyReference.cache
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.AssemblyInfo.cs
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\KeyValue\KeyValue\bin\Debug\netcoreapp3.1\KeyValue.exe
+C:\Users\burro\source\repos\KeyValue\KeyValue\bin\Debug\netcoreapp3.1\KeyValue.deps.json
+C:\Users\burro\source\repos\KeyValue\KeyValue\bin\Debug\netcoreapp3.1\KeyValue.runtimeconfig.json
+C:\Users\burro\source\repos\KeyValue\KeyValue\bin\Debug\netcoreapp3.1\KeyValue.runtimeconfig.dev.json
+C:\Users\burro\source\repos\KeyValue\KeyValue\bin\Debug\netcoreapp3.1\KeyValue.dll
+C:\Users\burro\source\repos\KeyValue\KeyValue\bin\Debug\netcoreapp3.1\KeyValue.pdb
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.dll
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.pdb
+C:\Users\burro\source\repos\KeyValue\KeyValue\obj\Debug\netcoreapp3.1\KeyValue.genruntimeconfig.cache

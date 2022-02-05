@@ -1,0 +1,14 @@
+C:\Users\burro\source\repos\Precedence\Precedence\bin\Debug\netcoreapp3.1\Precedence.exe
+C:\Users\burro\source\repos\Precedence\Precedence\bin\Debug\netcoreapp3.1\Precedence.deps.json
+C:\Users\burro\source\repos\Precedence\Precedence\bin\Debug\netcoreapp3.1\Precedence.runtimeconfig.json
+C:\Users\burro\source\repos\Precedence\Precedence\bin\Debug\netcoreapp3.1\Precedence.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Precedence\Precedence\bin\Debug\netcoreapp3.1\Precedence.dll
+C:\Users\burro\source\repos\Precedence\Precedence\bin\Debug\netcoreapp3.1\Precedence.pdb
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.csproj.AssemblyReference.cache
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.AssemblyInfo.cs
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.dll
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.pdb
+C:\Users\burro\source\repos\Precedence\Precedence\obj\Debug\netcoreapp3.1\Precedence.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfo.cs
+C:\Users\burro\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.exe
+C:\Users\burro\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.deps.json
+C:\Users\burro\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.json
+C:\Users\burro\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.dll
+C:\Users\burro\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.pdb
+C:\Users\burro\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.dll
+C:\Users\burro\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.pdb
+C:\Users\burro\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\burro\source\repos\Features\Features\bin\Debug\netcoreapp3.1\Features.exe
+C:\Users\burro\source\repos\Features\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+C:\Users\burro\source\repos\Features\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.json
+C:\Users\burro\source\repos\Features\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Features\Features\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\burro\source\repos\Features\Features\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.csproj.AssemblyReference.cache
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.dll
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.pdb
+C:\Users\burro\source\repos\Features\Features\obj\Debug\netcoreapp3.1\Features.genruntimeconfig.cache

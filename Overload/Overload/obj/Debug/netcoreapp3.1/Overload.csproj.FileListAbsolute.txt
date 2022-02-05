@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.exe
+C:\Users\burro\source\repos\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.deps.json
+C:\Users\burro\source\repos\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.runtimeconfig.json
+C:\Users\burro\source\repos\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.dll
+C:\Users\burro\source\repos\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.pdb
+C:\Users\burro\source\repos\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.AssemblyInfo.cs
+C:\Users\burro\source\repos\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.dll
+C:\Users\burro\source\repos\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.pdb
+C:\Users\burro\source\repos\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.genruntimeconfig.cache

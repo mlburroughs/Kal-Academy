@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Refactor\Refactor\bin\Debug\netcoreapp3.1\Refactor.exe
+C:\Users\burro\source\repos\Refactor\Refactor\bin\Debug\netcoreapp3.1\Refactor.deps.json
+C:\Users\burro\source\repos\Refactor\Refactor\bin\Debug\netcoreapp3.1\Refactor.runtimeconfig.json
+C:\Users\burro\source\repos\Refactor\Refactor\bin\Debug\netcoreapp3.1\Refactor.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Refactor\Refactor\bin\Debug\netcoreapp3.1\Refactor.dll
+C:\Users\burro\source\repos\Refactor\Refactor\bin\Debug\netcoreapp3.1\Refactor.pdb
+C:\Users\burro\source\repos\Refactor\Refactor\obj\Debug\netcoreapp3.1\Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Refactor\Refactor\obj\Debug\netcoreapp3.1\Refactor.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Refactor\Refactor\obj\Debug\netcoreapp3.1\Refactor.AssemblyInfo.cs
+C:\Users\burro\source\repos\Refactor\Refactor\obj\Debug\netcoreapp3.1\Refactor.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Refactor\Refactor\obj\Debug\netcoreapp3.1\Refactor.dll
+C:\Users\burro\source\repos\Refactor\Refactor\obj\Debug\netcoreapp3.1\Refactor.pdb
+C:\Users\burro\source\repos\Refactor\Refactor\obj\Debug\netcoreapp3.1\Refactor.genruntimeconfig.cache

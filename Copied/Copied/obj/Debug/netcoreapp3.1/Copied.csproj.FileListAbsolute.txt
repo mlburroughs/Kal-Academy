@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Copied\Copied\bin\Debug\netcoreapp3.1\Copied.exe
+C:\Users\burro\source\repos\Copied\Copied\bin\Debug\netcoreapp3.1\Copied.deps.json
+C:\Users\burro\source\repos\Copied\Copied\bin\Debug\netcoreapp3.1\Copied.runtimeconfig.json
+C:\Users\burro\source\repos\Copied\Copied\bin\Debug\netcoreapp3.1\Copied.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Copied\Copied\bin\Debug\netcoreapp3.1\Copied.dll
+C:\Users\burro\source\repos\Copied\Copied\bin\Debug\netcoreapp3.1\Copied.pdb
+C:\Users\burro\source\repos\Copied\Copied\obj\Debug\netcoreapp3.1\Copied.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Copied\Copied\obj\Debug\netcoreapp3.1\Copied.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Copied\Copied\obj\Debug\netcoreapp3.1\Copied.AssemblyInfo.cs
+C:\Users\burro\source\repos\Copied\Copied\obj\Debug\netcoreapp3.1\Copied.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Copied\Copied\obj\Debug\netcoreapp3.1\Copied.dll
+C:\Users\burro\source\repos\Copied\Copied\obj\Debug\netcoreapp3.1\Copied.pdb
+C:\Users\burro\source\repos\Copied\Copied\obj\Debug\netcoreapp3.1\Copied.genruntimeconfig.cache

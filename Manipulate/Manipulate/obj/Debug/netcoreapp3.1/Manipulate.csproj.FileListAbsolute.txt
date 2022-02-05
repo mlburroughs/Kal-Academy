@@ -1,0 +1,14 @@
+C:\Users\burro\source\repos\Manipulate\Manipulate\bin\Debug\netcoreapp3.1\Manipulate.exe
+C:\Users\burro\source\repos\Manipulate\Manipulate\bin\Debug\netcoreapp3.1\Manipulate.deps.json
+C:\Users\burro\source\repos\Manipulate\Manipulate\bin\Debug\netcoreapp3.1\Manipulate.runtimeconfig.json
+C:\Users\burro\source\repos\Manipulate\Manipulate\bin\Debug\netcoreapp3.1\Manipulate.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Manipulate\Manipulate\bin\Debug\netcoreapp3.1\Manipulate.dll
+C:\Users\burro\source\repos\Manipulate\Manipulate\bin\Debug\netcoreapp3.1\Manipulate.pdb
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.csproj.AssemblyReference.cache
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.AssemblyInfo.cs
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.dll
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.pdb
+C:\Users\burro\source\repos\Manipulate\Manipulate\obj\Debug\netcoreapp3.1\Manipulate.genruntimeconfig.cache

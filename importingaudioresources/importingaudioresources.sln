@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "importingaudioresources", "importingaudioresources\importingaudioresources.csproj", "{64C39E46-5B22-4D57-A3B5-BC23E5C3B6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C39E46-5B22-4D57-A3B5-BC23E5C3B6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C39E46-5B22-4D57-A3B5-BC23E5C3B6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C39E46-5B22-4D57-A3B5-BC23E5C3B6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C39E46-5B22-4D57-A3B5-BC23E5C3B6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4AB80C-5987-4AFB-A17E-C2A491C04425}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.exe
+C:\Users\burro\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.deps.json
+C:\Users\burro\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.json
+C:\Users\burro\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.dll
+C:\Users\burro\source\repos\Input\Input\bin\Debug\netcoreapp3.1\Input.pdb
+C:\Users\burro\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfo.cs
+C:\Users\burro\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.dll
+C:\Users\burro\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.pdb
+C:\Users\burro\source\repos\Input\Input\obj\Debug\netcoreapp3.1\Input.genruntimeconfig.cache

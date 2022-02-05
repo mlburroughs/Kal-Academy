@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Condition\Condition\bin\Debug\netcoreapp3.1\Condition.exe
+C:\Users\burro\source\repos\Condition\Condition\bin\Debug\netcoreapp3.1\Condition.deps.json
+C:\Users\burro\source\repos\Condition\Condition\bin\Debug\netcoreapp3.1\Condition.runtimeconfig.json
+C:\Users\burro\source\repos\Condition\Condition\bin\Debug\netcoreapp3.1\Condition.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Condition\Condition\bin\Debug\netcoreapp3.1\Condition.dll
+C:\Users\burro\source\repos\Condition\Condition\bin\Debug\netcoreapp3.1\Condition.pdb
+C:\Users\burro\source\repos\Condition\Condition\obj\Debug\netcoreapp3.1\Condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Condition\Condition\obj\Debug\netcoreapp3.1\Condition.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Condition\Condition\obj\Debug\netcoreapp3.1\Condition.AssemblyInfo.cs
+C:\Users\burro\source\repos\Condition\Condition\obj\Debug\netcoreapp3.1\Condition.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Condition\Condition\obj\Debug\netcoreapp3.1\Condition.dll
+C:\Users\burro\source\repos\Condition\Condition\obj\Debug\netcoreapp3.1\Condition.pdb
+C:\Users\burro\source\repos\Condition\Condition\obj\Debug\netcoreapp3.1\Condition.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Parameter\Parameter\bin\Debug\netcoreapp3.1\Parameter.exe
+C:\Users\burro\source\repos\Parameter\Parameter\bin\Debug\netcoreapp3.1\Parameter.deps.json
+C:\Users\burro\source\repos\Parameter\Parameter\bin\Debug\netcoreapp3.1\Parameter.runtimeconfig.json
+C:\Users\burro\source\repos\Parameter\Parameter\bin\Debug\netcoreapp3.1\Parameter.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Parameter\Parameter\bin\Debug\netcoreapp3.1\Parameter.dll
+C:\Users\burro\source\repos\Parameter\Parameter\bin\Debug\netcoreapp3.1\Parameter.pdb
+C:\Users\burro\source\repos\Parameter\Parameter\obj\Debug\netcoreapp3.1\Parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Parameter\Parameter\obj\Debug\netcoreapp3.1\Parameter.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Parameter\Parameter\obj\Debug\netcoreapp3.1\Parameter.AssemblyInfo.cs
+C:\Users\burro\source\repos\Parameter\Parameter\obj\Debug\netcoreapp3.1\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Parameter\Parameter\obj\Debug\netcoreapp3.1\Parameter.dll
+C:\Users\burro\source\repos\Parameter\Parameter\obj\Debug\netcoreapp3.1\Parameter.pdb
+C:\Users\burro\source\repos\Parameter\Parameter\obj\Debug\netcoreapp3.1\Parameter.genruntimeconfig.cache

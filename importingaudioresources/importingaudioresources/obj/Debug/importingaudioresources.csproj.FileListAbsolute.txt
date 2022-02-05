@@ -1,0 +1,9 @@
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\bin\Debug\importingaudioresources.exe.config
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\bin\Debug\importingaudioresources.exe
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\bin\Debug\importingaudioresources.pdb
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\obj\Debug\importingaudioresources.Form1.resources
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\obj\Debug\importingaudioresources.Properties.Resources.resources
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\obj\Debug\importingaudioresources.csproj.GenerateResource.cache
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\obj\Debug\importingaudioresources.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\obj\Debug\importingaudioresources.exe
+C:\Users\burro\source\repos\importingaudioresources\importingaudioresources\obj\Debug\importingaudioresources.pdb

@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\WriteText\WriteText\bin\Debug\netcoreapp3.1\WriteText.exe
+C:\Users\burro\source\repos\WriteText\WriteText\bin\Debug\netcoreapp3.1\WriteText.deps.json
+C:\Users\burro\source\repos\WriteText\WriteText\bin\Debug\netcoreapp3.1\WriteText.runtimeconfig.json
+C:\Users\burro\source\repos\WriteText\WriteText\bin\Debug\netcoreapp3.1\WriteText.runtimeconfig.dev.json
+C:\Users\burro\source\repos\WriteText\WriteText\bin\Debug\netcoreapp3.1\WriteText.dll
+C:\Users\burro\source\repos\WriteText\WriteText\bin\Debug\netcoreapp3.1\WriteText.pdb
+C:\Users\burro\source\repos\WriteText\WriteText\obj\Debug\netcoreapp3.1\WriteText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\WriteText\WriteText\obj\Debug\netcoreapp3.1\WriteText.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\WriteText\WriteText\obj\Debug\netcoreapp3.1\WriteText.AssemblyInfo.cs
+C:\Users\burro\source\repos\WriteText\WriteText\obj\Debug\netcoreapp3.1\WriteText.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\WriteText\WriteText\obj\Debug\netcoreapp3.1\WriteText.dll
+C:\Users\burro\source\repos\WriteText\WriteText\obj\Debug\netcoreapp3.1\WriteText.pdb
+C:\Users\burro\source\repos\WriteText\WriteText\obj\Debug\netcoreapp3.1\WriteText.genruntimeconfig.cache

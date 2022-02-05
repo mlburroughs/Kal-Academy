@@ -1,0 +1,14 @@
+C:\Users\burro\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+C:\Users\burro\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+C:\Users\burro\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+C:\Users\burro\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+C:\Users\burro\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\burro\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.AssemblyReference.cache
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\burro\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

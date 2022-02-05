@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Joined\Joined\bin\Debug\netcoreapp3.1\Joined.exe
+C:\Users\burro\source\repos\Joined\Joined\bin\Debug\netcoreapp3.1\Joined.deps.json
+C:\Users\burro\source\repos\Joined\Joined\bin\Debug\netcoreapp3.1\Joined.runtimeconfig.json
+C:\Users\burro\source\repos\Joined\Joined\bin\Debug\netcoreapp3.1\Joined.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Joined\Joined\bin\Debug\netcoreapp3.1\Joined.dll
+C:\Users\burro\source\repos\Joined\Joined\bin\Debug\netcoreapp3.1\Joined.pdb
+C:\Users\burro\source\repos\Joined\Joined\obj\Debug\netcoreapp3.1\Joined.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Joined\Joined\obj\Debug\netcoreapp3.1\Joined.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Joined\Joined\obj\Debug\netcoreapp3.1\Joined.AssemblyInfo.cs
+C:\Users\burro\source\repos\Joined\Joined\obj\Debug\netcoreapp3.1\Joined.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Joined\Joined\obj\Debug\netcoreapp3.1\Joined.dll
+C:\Users\burro\source\repos\Joined\Joined\obj\Debug\netcoreapp3.1\Joined.pdb
+C:\Users\burro\source\repos\Joined\Joined\obj\Debug\netcoreapp3.1\Joined.genruntimeconfig.cache

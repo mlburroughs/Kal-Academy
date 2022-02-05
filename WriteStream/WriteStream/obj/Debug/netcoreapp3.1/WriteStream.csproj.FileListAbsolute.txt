@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\WriteStream\WriteStream\bin\Debug\netcoreapp3.1\WriteStream.exe
+C:\Users\burro\source\repos\WriteStream\WriteStream\bin\Debug\netcoreapp3.1\WriteStream.deps.json
+C:\Users\burro\source\repos\WriteStream\WriteStream\bin\Debug\netcoreapp3.1\WriteStream.runtimeconfig.json
+C:\Users\burro\source\repos\WriteStream\WriteStream\bin\Debug\netcoreapp3.1\WriteStream.runtimeconfig.dev.json
+C:\Users\burro\source\repos\WriteStream\WriteStream\bin\Debug\netcoreapp3.1\WriteStream.dll
+C:\Users\burro\source\repos\WriteStream\WriteStream\bin\Debug\netcoreapp3.1\WriteStream.pdb
+C:\Users\burro\source\repos\WriteStream\WriteStream\obj\Debug\netcoreapp3.1\WriteStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\WriteStream\WriteStream\obj\Debug\netcoreapp3.1\WriteStream.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\WriteStream\WriteStream\obj\Debug\netcoreapp3.1\WriteStream.AssemblyInfo.cs
+C:\Users\burro\source\repos\WriteStream\WriteStream\obj\Debug\netcoreapp3.1\WriteStream.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\WriteStream\WriteStream\obj\Debug\netcoreapp3.1\WriteStream.dll
+C:\Users\burro\source\repos\WriteStream\WriteStream\obj\Debug\netcoreapp3.1\WriteStream.pdb
+C:\Users\burro\source\repos\WriteStream\WriteStream\obj\Debug\netcoreapp3.1\WriteStream.genruntimeconfig.cache

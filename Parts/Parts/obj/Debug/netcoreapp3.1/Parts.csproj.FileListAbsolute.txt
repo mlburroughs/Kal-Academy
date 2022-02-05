@@ -1,0 +1,14 @@
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.csproj.AssemblyReference.cache
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.AssemblyInfo.cs
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Parts\Parts\bin\Debug\netcoreapp3.1\Parts.exe
+C:\Users\burro\source\repos\Parts\Parts\bin\Debug\netcoreapp3.1\Parts.deps.json
+C:\Users\burro\source\repos\Parts\Parts\bin\Debug\netcoreapp3.1\Parts.runtimeconfig.json
+C:\Users\burro\source\repos\Parts\Parts\bin\Debug\netcoreapp3.1\Parts.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Parts\Parts\bin\Debug\netcoreapp3.1\Parts.dll
+C:\Users\burro\source\repos\Parts\Parts\bin\Debug\netcoreapp3.1\Parts.pdb
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.dll
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.pdb
+C:\Users\burro\source\repos\Parts\Parts\obj\Debug\netcoreapp3.1\Parts.genruntimeconfig.cache

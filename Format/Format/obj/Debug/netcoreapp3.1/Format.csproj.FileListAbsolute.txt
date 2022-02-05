@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\Format\Format\bin\Debug\netcoreapp3.1\Format.exe
+C:\Users\burro\source\repos\Format\Format\bin\Debug\netcoreapp3.1\Format.deps.json
+C:\Users\burro\source\repos\Format\Format\bin\Debug\netcoreapp3.1\Format.runtimeconfig.json
+C:\Users\burro\source\repos\Format\Format\bin\Debug\netcoreapp3.1\Format.runtimeconfig.dev.json
+C:\Users\burro\source\repos\Format\Format\bin\Debug\netcoreapp3.1\Format.dll
+C:\Users\burro\source\repos\Format\Format\bin\Debug\netcoreapp3.1\Format.pdb
+C:\Users\burro\source\repos\Format\Format\obj\Debug\netcoreapp3.1\Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\Format\Format\obj\Debug\netcoreapp3.1\Format.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\Format\Format\obj\Debug\netcoreapp3.1\Format.AssemblyInfo.cs
+C:\Users\burro\source\repos\Format\Format\obj\Debug\netcoreapp3.1\Format.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\Format\Format\obj\Debug\netcoreapp3.1\Format.dll
+C:\Users\burro\source\repos\Format\Format\obj\Debug\netcoreapp3.1\Format.pdb
+C:\Users\burro\source\repos\Format\Format\obj\Debug\netcoreapp3.1\Format.genruntimeconfig.cache

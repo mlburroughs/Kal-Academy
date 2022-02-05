@@ -1,0 +1,13 @@
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.exe
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.deps.json
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.json
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.dev.json
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.dll
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.pdb
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfo.cs
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.dll
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.pdb
+C:\Users\burro\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.genruntimeconfig.cache
